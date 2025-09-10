@@ -1,4 +1,4 @@
-name: Build Kernel Redmi Note4X (Based-AOSP A13) with KSU and SUSFS
+name: A.mido(Based-AOSP A13) with KSU and SUSFS
 on:
   workflow_call:
   workflow_dispatch:
